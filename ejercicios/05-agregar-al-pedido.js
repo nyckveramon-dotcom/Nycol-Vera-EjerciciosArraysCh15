@@ -19,7 +19,7 @@
 // Pista: valida ANTES de hacer push.
 // ============================================================
 
-  const menu = [
+const menu = [
   { nombre: "Bandeja paisa", precio: 32000, categoria: "fuerte", disponible: true },
   { nombre: "Ajiaco", precio: 28000, categoria: "fuerte", disponible: false },
   { nombre: "Limonada de coco", precio: 9000, categoria: "bebida", disponible: true },
